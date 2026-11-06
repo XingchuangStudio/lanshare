@@ -12,7 +12,8 @@
 
 ## 下载安装
 
-- 最新 APK：[点此下载](https://aka.doubaocdn.com/s/SVY6stz4V7)（v1.4.0，约 4.5 MB）
+- **Android APK**：[点此下载](https://aka.doubaocdn.com/s/SVY6stz4V7)（v1.4.0，约 4.5 MB）
+- **Windows 版**：[点此下载](https://github.com/XingchuangStudio/lanshare/releases/tag/v1.1.0)（v1.1.0，约 43 MB）
 - 或在本仓库 Releases 中获取历史版本
 
 > 安装时如提示"未知来源"，请在系统设置中允许浏览器安装应用。
